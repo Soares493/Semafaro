@@ -30,11 +30,11 @@ LED Verde aceso por 3 segundos (Siga).
 LED Amarelo aceso por 3 segundos (Atenção).
 A sequência se repete ciclicamente.
 
-Diagrama de Conexão dos Componentes
+**Diagrama de Conexão dos Componentes**
 
-LED Vermelho: Conectado ao pino GPIO 11.
-LED Amarelo: Conectado ao pino GPIO 12.
-LED Verde: Conectado ao pino GPIO 13.
+LED Vermelho: Conectado ao pino GPIO 11.  
+LED Amarelo: Conectado ao pino GPIO 12.  
+LED Verde: Conectado ao pino GPIO 13.  
 Resistores de 330 Ω: Cada LED deve ser conectado a um resistor de 330 Ω em série para limitar a corrente.
 Requisitos do Projeto
 Temporização de 3 segundos: O temporizador deve ser configurado para alterar o estado dos LEDs a cada 3 segundos.
@@ -44,7 +44,8 @@ Experimento com BitDogLab: Utilizar a ferramenta BitDogLab para testar o código
 
 **Instruções de Implementação**
 
-1. Configuração do Circuito
+**1. Configuração do Circuito**
+
 LED Vermelho: Conecte o LED vermelho ao pino GPIO 15, com um resistor de 330 Ω em série.
 LED Amarelo: Conecte o LED amarelo ao pino GPIO 14, com um resistor de 330 Ω em série.
 LED Verde: Conecte o LED verde ao pino GPIO 13, com um resistor de 330 Ω em série.
