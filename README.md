@@ -46,7 +46,7 @@ Experimento com BitDogLab: Utilizar a ferramenta BitDogLab para testar o código
 
 **1. Configuração do Circuito**
 
-**LED Vermelho:** Conecte o LED vermelho ao pino GPIO 15, com um resistor de 330 Ω em série.  
-**LED Amarelo:** Conecte o LED amarelo ao pino GPIO 14, com um resistor de 330 Ω em série.  
+**LED Vermelho:** Conecte o LED vermelho ao pino GPIO 11, com um resistor de 330 Ω em série.  
+**LED Amarelo:** Conecte o LED amarelo ao pino GPIO 12, com um resistor de 330 Ω em série.  
 **LED Verde:** Conecte o LED verde ao pino GPIO 13, com um resistor de 330 Ω em série.  
 Porta Serial: O Raspberry Pi Pico W será conectado ao computador para imprimir mensagens na porta serial.
